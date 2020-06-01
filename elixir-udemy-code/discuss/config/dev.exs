@@ -2,9 +2,9 @@ use Mix.Config
 
 # Configure your database
 config :discuss, Discuss.Repo,
-  username: "puneet",
+  username: "mysuperuser",
   password: "puneet61",
-  database: "discuss_learn",
+  database: "discuss_learn2",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
